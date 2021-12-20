@@ -22,3 +22,6 @@ console.log('JS OK');
     11 - recupero un elemento del DOM
     12 - stampo in quell' elemento la password
 */
+
+// 1 - chiedo il nome
+const userName = prompt('name');
