@@ -19,10 +19,10 @@ h1{
 }
 
 .password-generator{
-height: 300px;
-background-color: orange;
+    height: 300px;
 }
 
-.line{
-
+.linea{
+    margin: 10px 0;
+    border: solid 1px white;
 }
