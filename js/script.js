@@ -33,7 +33,10 @@ console.log(`Surname: ${userSurname}`);
 
 // 5 - chiedo il colore
 const userColor = prompt('Colore preferito');
-console.log(`favourite color: ${userColor}`);
+console.log(`Favourite color: ${userColor}`);
 
 // 7 - Creo la password
 const password;
+// 8 - do un valore alla variabile
+password = userName + userSurname + userColor;
+console.log(`Passowrd: ${password}`);
