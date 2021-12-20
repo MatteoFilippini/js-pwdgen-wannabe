@@ -24,5 +24,9 @@ console.log('JS OK');
 */
 
 // 1 - chiedo il nome
-const userName = prompt('name');
-console.log(userName);
+const userName = prompt('Nome');
+console.log(`Name: ${userName}`);
+
+// 2 - chiedo il cognome
+const userSurname = prompt('Cognome');
+console.log(userSurname);
