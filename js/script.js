@@ -23,20 +23,20 @@ console.log('JS OK');
     12 - stampo in quell' elemento la password
 */
 
-// 1 - chiedo il nome
+// 1/2 - chiedo il nome
 const userName = prompt('Nome');
 console.log(`Name: ${userName}`);
 
-// 3 - chiedo il cognome
+// 3/4 - chiedo il cognome
 const userSurname = prompt('Cognome');
 console.log(`Surname: ${userSurname}`);
 
-// 5 - chiedo il colore
+// 5/6 - chiedo il colore
 const userColor = prompt('Colore preferito');
 console.log(`Favourite color: ${userColor}`);
 
 // 7 - Creo la password
 let password;
-// 8 - do un valore alla variabile
+// 8/9 - do un valore alla variabile
 password = userName + userSurname + userColor + 21;
 console.log(`Passowrd: ${password}`);
