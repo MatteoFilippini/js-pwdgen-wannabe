@@ -43,3 +43,6 @@ console.log(`Passowrd: ${password}`);
 
 // 11 - recupero elemento
 const generatorElement = document.getElementById('generator');
+
+// 12 - Stampo password
+generatorElement.innerText = `La password generata è: ${password}`
