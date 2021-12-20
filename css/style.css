@@ -26,6 +26,10 @@ main{
     color: white;
 }
 
+i:hover{
+    cursor: pointer;
+}
+
 /* --linea */
 .linea{
     margin: 20px 0;
