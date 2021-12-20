@@ -27,6 +27,10 @@ console.log('JS OK');
 const userName = prompt('Nome');
 console.log(`Name: ${userName}`);
 
-// 2 - chiedo il cognome
+// 3 - chiedo il cognome
 const userSurname = prompt('Cognome');
-console.log(userSurname);
+console.log(`Surname: ${userSurname}`);
+
+// 5 - chiedo il colore
+const userColor = prompt('Colore preferito');
+console.log(`favourite color: ${userColor}`);
