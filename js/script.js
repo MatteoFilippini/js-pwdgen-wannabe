@@ -45,4 +45,4 @@ console.log(`Passowrd: ${password}`);
 const generatorElement = document.getElementById('generator');
 
 // 12 - Stampo password
-generatorElement.innerText = `La password generata è: ${password}`;
+generatorElement.innerText = `${password}`;
