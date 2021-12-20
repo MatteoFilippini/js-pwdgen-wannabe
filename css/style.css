@@ -26,8 +26,23 @@ main{
     color: white;
 }
 
-i:hover{
-    cursor: pointer;
+.icon-copy:hover .copy{
+    visibility: inherit;
+}
+
+.icon-copy{
+    position: relative;
+}
+
+.copy{
+    visibility: hidden;
+    position: absolute;
+    background-color: lightblue;
+    left: 100%;
+    bottom: 100%;
+    color: black;
+    border-radius: 10px;
+    padding: 1px 3px;
 }
 
 /* --linea */
