@@ -8,6 +8,30 @@
 }
 
 /* MAIN */
+main{
+    background-image: url();
+    height: 100vh
+}
+
+/* -container */
 .password-generator{
     background-color: #F67C54;
+    padding: 50px 0;
 }
+
+/* --generatore */
+#generator{
+    color: white;
+}
+
+/* --linea */
+.linea{
+    margin: 20px 0;
+    border: solid 1px white;
+}
+
+.mia{
+    background-color: lightblue;
+}
+
+
