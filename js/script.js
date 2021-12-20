@@ -40,3 +40,6 @@ let password;
 // 8/9 - do un valore alla variabile
 password = userName + userSurname + userColor + 21;
 console.log(`Passowrd: ${password}`);
+
+// 11 - recupero elemento
+const generatorElement = document.getElementById('generator');
