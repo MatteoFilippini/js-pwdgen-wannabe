@@ -1,3 +1,7 @@
 header{
     background-color: green;
 }
+
+.navbar{
+    border: 1px solid red;
+}
