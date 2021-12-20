@@ -25,3 +25,4 @@ console.log('JS OK');
 
 // 1 - chiedo il nome
 const userName = prompt('name');
+console.log(userName);
